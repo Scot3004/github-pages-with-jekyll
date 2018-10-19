@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenido a mi blog de pruebas
 
-I'm glad you are here. I plan to talk about ...
+En este proyecto se mostrara github pages :smile:
