@@ -1,5 +1,5 @@
 ---
-title: Github Pages
+title: "Github Pages"
 date: 2018-10-19
 ---
 
